@@ -35,12 +35,43 @@ Throughout the course of this project, several valuable lessons were gained:
 
 ## Installation
 
-https://thecodebarbie.github.io/CHL1-Code-Refactor/
+This link allows yopu to reach the repo directly:
+https://github.com/Thecodebarbie/CHL1-Code-Refactor
+
+
+Follow these steps to get started with Challenge 1: Code Refactoring
+
+1. Copy the Repository URL:
+    
+ Click on the "Code" button (green button) on the GitHub page.
+Copy the HTTPS or SSH URL of the repository
+
+
+2. Open Terminal (or Command Prompt on Windows):
+Navigate to the directory where you want to clone the repository  using `cd`command.
+
+3. Clone the Repository:
+Type the following command in the terminal:
+
+git clone [repository_url]
+Replace `[repository_url]` with the URL you copied earlier.
+
+4. Navigate into the Cloned Directory:
+Use the cd command to enter the directory that was created when you cloned the repository:
+
+5. Verify the Clone:
+ confirm that the repository has been successfully cloned by listing the contents of the directory:
+
+ LS #linux/Mac
+ dir# on windows.
+
+
 
 ## Usage
 
 ![alt text](assets/images/homepage-screenshot.png)
 
+https://thecodebarbie.github.io/CHL1-Code-Refactor/
 
 ## License
 
