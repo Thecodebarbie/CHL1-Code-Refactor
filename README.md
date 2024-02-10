@@ -35,7 +35,7 @@ Throughout the course of this project, several valuable lessons were gained:
 
 ## Installation
 
- There are no applicable steps required of install.
+https://thecodebarbie.github.io/CHL1-Code-Refactor/
 
 ## Usage
 
